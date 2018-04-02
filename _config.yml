@@ -2,7 +2,7 @@
 title: A blog about a data scientist under construction
 description: A blog about a data scientist under construction
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://frankji.github.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+url: "http://frankji.github.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Dingjue Ji
