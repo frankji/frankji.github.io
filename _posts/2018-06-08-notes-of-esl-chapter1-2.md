@@ -12,4 +12,4 @@ categories:
 twitter_text:
 ---
 
-<iframe src="/Documents/ESL_notes/Chapter1_2.pdf" width="100%" height="100%"></iframe>
+<iframe src="/Documents/ESL_notes/Chapter1_2.pdf" width="100%" height="1000%"></iframe>
