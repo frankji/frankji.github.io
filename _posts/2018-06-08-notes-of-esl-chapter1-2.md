@@ -5,10 +5,10 @@ date: 2018-06-08 17:00:00
 image: '/assets/img/'
 description: Some random notes of ESL chapter 1 and 2
 tags:
--  Notes
+- Notes
+- This dude does not really know the stuff
 categories: 
 - Random
-- This dude does not really know the stuff
 twitter_text:
 ---
 
